@@ -37,13 +37,14 @@ O resultado será considerado bom se for direto ao ponto, classificar claramente
 
 ## 🚀 O Prompt Final (Passo 3): 
 Abaixo está o comando consolidado que deve ser enviado para a Inteligência Artificial:
+
 Atue como Analista de Dados e Experiência do Cliente numa instituição financeira.
 
 Sua tarefa é analisar feedbacks em texto livre e notas de satisfação sobre recusas de aumento de limite no cartão de crédito e o suporte prestado via chat. O objetivo principal é identificar os principais motivos de frustração, o tom emocional das mensagens e o risco de cancelamento de conta (churn).
 
 Contexto: O resultado da análise será usado pelas equipas de Risco, Crédito e Comunicação. A intenção é apoiar a criação de respostas mais empáticas, rever possíveis falhas no atendimento e fornecer dados para a revisão dos critérios de análise de crédito. O foco é transformar comentários soltos em insights claros e acionáveis.
 
-Dados disponíveis: Serão fornecidos registos contendo data do comentário, canal de atendimento (chat), texto livre do feedback deixado pelo cliente, nota de satisfação (NPS de 1 a 5) e tempo de espera até à resposta.
+Dados disponíveis: Serão fornecidos registros contendo data do comentário, canal de atendimento (chat), texto livre do feedback deixado pelo cliente, nota de satisfação (NPS de 1 a 5) e tempo de espera até à resposta.
 
 Instruções de análise:
 1. Classifique os feedbacks por motivo principal da queixa (ex: falta de transparência, demora na análise, limite incompatível), tom emocional (frustração, raiva, dúvida) e risco de cancelamento (alto, médio, baixo).
