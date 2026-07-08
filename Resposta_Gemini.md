@@ -11,18 +11,16 @@ A análise revela que o principal ofensor da experiência do cliente é a falta 
 | --- | --- | --- | --- |
 | **Falta de transparência (recusa/critérios)** | Frustração e Dúvida (Risco: Alto) | "O sistema recusou sem explicar o motivo, fiquei frustrado." "Atendimento cordial, mas não consegui entender os critérios de análise."
 
- | **Comunicação/Risco**: Criar guiões para Chat e App que expliquem de forma empática e objetiva o motivo da recusa. |
+| **Comunicação/Risco**: Criar guiões para Chat e App que expliquem de forma empática e objetiva o motivo da recusa. |
 | **Demora no atendimento e resolução** | Insatisfação e Raiva (Risco: Alto) | "Atendimento demorado e não resolveram meu pedido de aumento." "Fiquei muito tempo na linha e não consegui resolver."
 
- | **Operações**: Revisar o dimensionamento das equipas de telefone e garantir autonomia para os operadores serem resolutivos. |
+| **Operações**: Revisar o dimensionamento das equipas de telefone e garantir autonomia para os operadores serem resolutivos. |
 | **Dúvidas sobre tarifas** | Confusão (Risco: Médio) | "Não consegui entender as tarifas associadas ao aumento."
 
- | **Comunicação**: Incorporar uma FAQ clara e simplificada no bot do Chat sobre os custos e regras do limite. |
+| **Comunicação**: Incorporar uma FAQ clara e simplificada no bot do Chat sobre os custos e regras do limite. |
 | **Burocracia em processos físicos** | Desgaste (Risco: Baixo) | "Precisei assinar vários documentos, achei burocrático."
 
- | **Processos**: Expandir o processo de aprovação simples da App para as Agências Físicas (ex: assinaturas digitais).
-
- |
+| **Processos**: Expandir o processo de aprovação simples da App para as Agências Físicas (ex: assinaturas digitais).|
 
 ---
 
