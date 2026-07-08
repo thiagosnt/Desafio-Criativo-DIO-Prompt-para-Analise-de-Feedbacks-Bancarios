@@ -1,23 +1,23 @@
-### 📊 Resumo Executivo  
-A análise dos feedbacks sobre recusas de aumento de limite e suporte via chat revela frustração recorrente com **falta de transparência nos critérios**, **demora nas respostas** e **limites percebidos como incompatíveis com o perfil do cliente**. O tom emocional predominante é de **frustração e raiva**, com risco de churn elevado em casos de notas baixas (NPS 1–2). Há oportunidades claras para melhorar a comunicação empática e revisar processos de análise de crédito.
+## 📊 Resumo Executivo
+A análise dos feedbacks sobre **recusas de aumento de limite via chat** revela três padrões principais: falta de clareza nos critérios de análise, atendimento cordial mas pouco resolutivo e frustração com ausência de explicações sobre tarifas ou motivos da recusa. O tom emocional predominante é de **frustração e dúvida**, com risco de churn médio em clientes que relatam repetidas negativas sem transparência. Há também elogios pontuais à cordialidade dos atendentes, mas insuficientes para compensar a percepção de falta de solução.
 
 ---
 
-### Tabela de Insights
+## Tabela de Insights
 
-| **Tema da Queixa** | **Sentimento Predominante** | **Exemplo (Evidência)** | **Ação Sugerida** |
-|---------------------------|----------------------------|---------------------------------|--------------------------------|
-| **Falta de transparência** | Frustração | “Não explicaram por que meu limite foi recusado.” | Criar guiões claros para explicar critérios de crédito em linguagem simples. |
-| **Demora na análise** | Raiva | “Esperei mais de 20 minutos no chat e não resolveram nada.” | Reduzir tempo de resposta com automação e alertas de SLA. |
-| **Limite incompatível** | Frustração | “Meu rendimento é [DADO SENSÍVEL] e ainda assim deram limite baixo.” | Revisar modelos de risco para maior aderência ao perfil financeiro. |
-| **Atendimento pouco empático** | Frustração/Dúvida | “Parecia que o atendente só repetia respostas prontas.” | Treinar equipe em comunicação empática e escuta ativa. |
-| **Elogios pontuais** | Alívio | “O atendente foi educado, mas não resolveu.” | Reforçar boas práticas de cordialidade e combinar com soluções efetivas. |
+| Tema da Queixa | Sentimento Predominante | Exemplo (Evidência) | Ação Sugerida |
+| --- | --- | --- | --- |
+| **Falta de transparência** | Frustração | “Não consegui entender os critérios de análise” | Criar guião de atendimento com explicação simples e padronizada dos critérios de crédito |
+| **Atendimento cordial mas ineficaz** | Dúvida | “O atendente foi educado, mas não resolveu meu problema” | Treinar equipe para alinhar cordialidade com resolução efetiva, incluindo alternativas claras |
+| **Ausência de explicação sobre tarifas** | Frustração | “Não consegui entender as tarifas associadas ao aumento” | Revisar comunicação sobre custos e tarifas, disponibilizando FAQ simplificado no chat |
+| **Recusa sem justificativa** | Raiva | “O sistema recusou sem explicar o motivo, fiquei frustrado” | Implementar mensagens automáticas de recusa com justificativa objetiva e empática |
+| **Elogio ao atendimento** | Satisfação | “Atendimento excelente, consegui aumento imediato” | Reforçar boas práticas identificadas nos atendimentos bem avaliados |
 
 ---
 
-### 🚨 Prioridades Urgentes para a Liderança
-1. **Revisar critérios de crédito** para reduzir percepções de injustiça e limites incompatíveis.  
-2. **Melhorar tempo de resposta no chat** com automação e monitoramento de SLA.  
-3. **Implementar comunicação empática** com guiões claros e treinamento da equipe para reduzir frustração e risco de churn.  
+## 🚨 Prioridades Urgentes para a Liderança
+1. **Padronizar comunicação**: Criar respostas claras e consistentes sobre critérios de análise e tarifas.  
+2. **Treinar equipe de chat**: Garantir que cordialidade venha acompanhada de soluções práticas.  
+3. **Automatizar justificativas**: Evitar respostas genéricas e reduzir frustração com recusa sem explicação.  
 
-Quer que eu aprofunde a análise em **padrões de churn** ou em **oportunidades de comunicação**?
+Essas ações combinam impacto imediato na experiência do cliente com redução do risco de churn e maior confiança nos processos de crédito.
