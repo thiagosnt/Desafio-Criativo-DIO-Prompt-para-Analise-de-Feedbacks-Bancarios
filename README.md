@@ -60,4 +60,7 @@ Restrições:
 * Informe claramente as limitações quando os dados não forem suficientes para tirar uma conclusão.
 * Use linguagem executiva, simples, direta e voltada para a tomada de decisão.
 
+## Passo 4 (adicionado pelo autor): Geração da Base de Dados
+A fim de testar o prompt estruturado nos passos anteriores e verificar se a IA seguiria as regras (especialmente a de ocultar informações sensíveis), solicitei a geração de uma base de dados fictícia.
 
+**Prompt**: Gere 20 comentários com data, canal de atendimento, texto do feedback, produto citado e nota de satisfação de 1 a 5. Eles serão a base de dados para ajudar a extrair insights de feedbacks de clientes sobre o processo de aumento de limite do cartão de crédito.
