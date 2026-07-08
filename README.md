@@ -5,7 +5,7 @@ Este repositório documenta a construção de um prompt estruturado para orienta
 O objetivo principal deste projeto é criar um comando claro para que a IA atue como Analista de Dados e Experiência do Cliente. O foco é analisar feedbacks em texto livre e notas de satisfação sobre recusas de aumento de limite no cartão de crédito , identificando os principais motivos de frustração, o tom emocional das mensagens e o risco de cancelamento de conta (churn).  
 
 ## 🏗️ Construção do Prompt ##
-O desenvolvimento seguiu três etapas estratégicas:
+O desenvolvimento seguiu duas etapas estratégicas:
 
 **Passo 1: Definição da Intenção**
 - Foco da Análise: Avaliar comentários sobre recusas de aumento de limite para mapear frustrações e o tom emocional.  
@@ -35,7 +35,7 @@ O resultado será considerado bom se for direto ao ponto, classificar claramente
    - Se houver informação insuficiente, indique a limitação.
    - Use linguagem executiva, objetiva e orientada a soluções práticas, adequada para equipes de Risco e Comunicação.
 
-## 🚀 O Prompt Final (Passo 3) ##: 
+## 🚀 O Prompt Final (Passo 3): 
 Abaixo está o comando consolidado que deve ser enviado para a Inteligência Artificial:
 Atue como Analista de Dados e Experiência do Cliente numa instituição financeira.
 
